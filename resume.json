@@ -1,0 +1,76 @@
+{
+    "basics": {
+      "name": "G. Neeraj Kumar",
+      "label": "Senior Associate - Product Compliance",
+      "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mensjournal.com%2Fwp-content%2Fuploads%2Fmf%2F1280-selfie.jpg%3Fquality%3D86%26strip%3Dall&imgrefurl=https%3A%2F%2Fwww.mensjournal.com%2Fstyle%2Fwhat-wear-your-dating-profile-pictures%2F&tbnid=DPWFCOrQvXvfVM&vet=12ahUKEwikiID5_832AhVCZmwGHfkCDTAQMygDegUIARDsAQ..i&docid=KvI-0kpkPmdhIM&w=1280&h=960&q=profile%20picture%20men&ved=2ahUKEwikiID5_832AhVCZmwGHfkCDTAQMygDegUIARDsAQ",
+      "email": "neerajnani.14@gmail.com",
+      "phone": "8839368762",
+      "degree": "Bachelor of Engineering",
+      "location": {
+        "address": "Block 4/E, Cross Street 3, Sector 6, Bhilai Nagar",
+        "postalCode": "490006",
+        "city": "Bhilai",
+        "countryCode": "India",
+        "region": "Chhattisgarh"
+                  },
+                 
+      "profiles":
+          [{
+          "network": "linkedin",
+          "username": "G. Neeraj Kumar",
+          "url": "https://www.linkedin.com/in/neeraj-kumar-667a64124"
+          }]
+        }, 
+    "work": [{
+        "company": "Amazon",
+        "position": "Senior Associate - Product Compliance",
+        "website": "https://www.amazon.jobs/en",
+        "startDate": "2017-06-05",
+        "endDate": "Present"
+          }],
+    
+    "education": [
+      {
+        "institution": "CSVTU",
+        "area": "Mechanical Engineering",
+        "studyType": "Bachelor of Engineering",
+        "startDate": "March 2013",
+        "endDate": "Dec 2017",
+        "gpa": "6.9",
+        "courses": ["FEM", "Thermodynamic", "Refrigiration and Air Conditioning", "NACP", "Autombile"]
+      }
+    ],
+    
+    
+    "awards": [
+      {
+        "title": "Campus Cracker",
+        "date": "2016-11-26",
+        "awarder": "DK Mishra",
+        "summary": "A one-sentence to one-paragraph overview of this award"
+      }
+    ],
+    
+    
+    "skills": [
+      {
+        "name": "Product Quality Management",
+        "level": "3",
+        "keywords": "Product Quality Testing"
+       }
+         ],
+         
+         
+    "languages": [
+      {
+        "language": ["Hindi", "English", "Telugu"],
+        "fluency": "Advance"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Music",
+        "keywords": ["Guitar", "Vocal"]
+       }
+    ]
+  }
